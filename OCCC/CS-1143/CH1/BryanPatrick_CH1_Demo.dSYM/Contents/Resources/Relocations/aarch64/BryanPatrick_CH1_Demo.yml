@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arth/GitHub/cs-coursework/OCCC/CS-1143/BryanPatrick_CH1_Demo'
+relocations:     []
+...
